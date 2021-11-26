@@ -21,17 +21,25 @@ Subjects covered:
 
 ## Part 2 - Data Analyze
 Subjets covered:
-  - data visualisation;
-  - data slices and filtering;
+  - data visualisation(plots, histogramms, boxplots, subplots and etc.);
+  - data slices and filtering (query, logic states, slices);
   - different methods of joining data frames and data within;
 ### Project 2 - Research of apartment sale advertisements in Saint-Petersburg
   The goal of this project is to establish the  correct parameters of real estate for sale. Clean the data from anomaly values and scammers data. Futher these establishment will help to determine the market values of real estate.
   
 ## Part 3 - Statistic analyzation
 Subjets covered:
-  - 
-### Project
-### Project
+  - choose optimal metrics for data statistic description;
+  - evaluate discrete and continuous values using different types of histograms;
+  - make conclusions about data on statistical indicators;
+  - get acquainted with the basics probability theory;
+  - determine the type of distribution (normal and binominal);
+  - learn how to build and test hypothesis.
+### Project 3 - Determinition of a promising tariff for a telecom company
+  The goal is to make a data analyze and make a decision: which tariff is best for clients.
+### Project 4 - Determinition of a succesfull game for sale
+  The goal is to make a data analyze and to identify the patterns that determine the success of the game for sale and popularity.
+
 ## Part 4 - Intro to Machine Learning
 Subjects covered:
   -
