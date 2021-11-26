@@ -48,10 +48,11 @@ Subjects covered:
   - machine learning metrics;
   - research different machine learning models and determine the best for the task
 ### Project 5 - Classification for telecom company tariffs for clients using machine learning
-  Analyze the data with clients behaivor from project 3. Need to choose a best machine learning model for classification. Test the final model with the best hyperparameters on the test samples
+  Analyze the data with clients behaivor from project 3. Need to choose the best machine learning model for classification. Test the final model with best hyperparameters on the test samples and compare with dummy model for adecvate predictions of the chosen model. For metrics - accuracy score.
+  
 ## Part 5 - Machine Learning
 Subjects covered:
-  -
+  - 
 ### Project
 ## Part 6 - Machine Learning in business
 Subjects covered:
