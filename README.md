@@ -14,3 +14,46 @@ Subjets covered:
 Subjects covered:
   -
 ### Project
+## Part 2 - Data Analyze
+Subjets covered:
+  -
+### Project
+## Part 3 - Statistic analyzation
+Subjets covered:
+  -
+### Project
+### Project
+## Part 4 - Intro to Machine Learning
+Subjets covered:
+  -
+### Project
+## Part 5 - Machine Learning
+Subjets covered:
+  -
+### Project
+## Part 6 - Machine Learning in business
+Subjets covered:
+  -
+### Project
+### Project
+## Part 7 - Gradient Boosting
+Subjets covered:
+  -
+### Project
+## Part 8 - Time Rows
+Subjets covered:
+  -
+### Project
+## Part 9 - Machine Learning with text
+Subjets covered:
+  -
+### Project
+## Part 10 - Data Extraction (SQL practice)
+Subjets covered:
+  -
+### Project
+## Part 11 - Neural Networks
+Subjets covered:
+  -
+### Project
+## Part 12 - Unsupervised Learning
