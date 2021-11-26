@@ -17,14 +17,19 @@ Subjects covered:
   - different methods of determining and dealing with duplicates;
   - data categorization.
 ### Project 1 - Research on the reliability of borrowers
-  Bank credit department 
+  Bank credit department want to analyze how family status, number of kids and other factors. Given data - statitics abour bank clients paying capacity.
+
 ## Part 2 - Data Analyze
 Subjets covered:
-  -
-### Project
+  - data visualisation;
+  - data slices and filtering;
+  - different methods of joining data frames and data within;
+### Project 2 - Research of apartment sale advertisements in Saint-Petersburg
+  The goal of this project is to establish the  correct parameters of real estate for sale. Clean the data from anomaly values and scammers data. Futher these establishment will help to determine the market values of real estate.
+  
 ## Part 3 - Statistic analyzation
 Subjets covered:
-  -
+  - 
 ### Project
 ### Project
 ## Part 4 - Intro to Machine Learning
