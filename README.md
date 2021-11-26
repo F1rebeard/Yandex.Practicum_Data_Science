@@ -42,8 +42,13 @@ Subjets covered:
 
 ## Part 4 - Intro to Machine Learning
 Subjects covered:
-  -
-### Project
+  - understand the machine learning ideas and theory;
+  - mechine learning for regression and classification;
+  - scikit-learn library;
+  - machine learning metrics;
+  - research different machine learning models and determine the best for the task
+### Project 5 - Classification for telecom company tariffs for clients using machine learning
+  Analyze the data with clients behaivor from project 3. Need to choose a best machine learning model for classification. Test the final model with the best hyperparameters on the test samples
 ## Part 5 - Machine Learning
 Subjects covered:
   -
