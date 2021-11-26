@@ -13,10 +13,11 @@ Subjets covered:
 ## Part 1 - Data Preprocessing
 Subjects covered:
   - different methods of dealing with gaps and anomaly values (artifacts);
-  - changing the datatype;
+  - changing the data type;
   - different methods of determining and dealing with duplicates;
   - data categorization.
-### Project
+### Project 1 - Research on the reliability of borrowers
+  Bank credit department 
 ## Part 2 - Data Analyze
 Subjets covered:
   -
