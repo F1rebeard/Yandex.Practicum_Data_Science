@@ -94,10 +94,16 @@ Subjects covered:
 
 ## Part 10 - Data Extraction (SQL practice)
 Subjects covered:
-  -
-### Project
+  - what is data bases (SQL);
+  - SQL practice;
+  - PySpark;
+### Project 13 - Data Analyze the SQL database
+  THe goal is to analyze what are the preferences of airline clients are. Used the given SQL database to collect the needed data.
+  
 ## Part 11 - Neural Networks
 Subjects covered:
-  -
+  - fully connected neural networks
+  - convolition neural networks
+  - 
 ### Project
 ## Part 12 - Unsupervised Learning
