@@ -104,6 +104,15 @@ Subjects covered:
 Subjects covered:
   - fully connected neural networks
   - convolition neural networks
-  - 
-### Project
+  - Keras, TensorFlow
+  - LeNet, Adam arhitecture
+  - Augemntation types
+### Project 14 - Shop customers age prediction
+  The goal is to train a neural network with photo set of customers to determine the age of customers in future.
+
 ## Part 12 - Unsupervised Learning
+  - searching anomalies and clusterization
+  - k-means, knn-method, isolation forest
+
+## Final Project - Teperature prediction for steel production
+  The goal is to analyze the data given from different datasets. understand the process of steel production, and train the model which will determine temperature of steel in the end of technological process.
