@@ -64,7 +64,6 @@ Subjects covered:
 ### Project 8 - Predict recovery factor of gold from gold ore.
   When the mined ore undergoes primary processing, a crushed mixture is obtained. It is sent to flotation (beneficiation) and two-stage purification. After this technological process the recovery factor of gold must be predicted.
   
-### Project 9 - Data Protection using Lineal Algebra
   
 ## Part 7 - Gradient Boosting
 Subjects covered:
@@ -72,7 +71,7 @@ Subjects covered:
   - gradient boosting using python;
   - tunning the gradient boosting;
   - libraries for gradient boosting;
-### Project 10 - Car cost prediction
+### Project 9 - Car cost prediction
   Service for the sale of used cars is developing an application to attract new customers. In it, you can quickly find out the market value of your car. Using Historical data: technical characteristics, equipment and prices of cars need to build a model to determine the cost. 
   
 ## Part 8 - Time Rows
@@ -80,7 +79,7 @@ Subjects covered:
   - learn to use machine learning with time rows;
   - learn to analyze trends and seasons in time rows;
   - learn to create features from datetime data;
-### Project 11 - Taxi order prediction
+### Project 10 - Taxi order prediction
   Relying on the past data of taxi orders (datetime data). The goal is to predict the amount of taxi orders. 
 
 ## Part 9 - Machine Learning for text
@@ -89,7 +88,7 @@ Subjects covered:
   - TF-IDF;
   - text sentiment analysis;
   - Embeddings, Word2Vec, BERT and etc.
-### Project 12 - Determine toxic commentaries in a shop-service
+### Project 11 - Determine toxic commentaries in a shop-service
   The goal is to train a classification model for determining toxic comments in shop service app.
 
 ## Part 10 - Data Extraction (SQL practice)
@@ -97,7 +96,7 @@ Subjects covered:
   - what is data bases (SQL);
   - SQL practice;
   - PySpark;
-### Project 13 - Data Analyze the SQL database
+### Project 12 - Data Analyze the SQL database
   THe goal is to analyze what are the preferences of airline clients are. Used the given SQL database to collect the needed data.
   
 ## Part 11 - Neural Networks
@@ -107,12 +106,12 @@ Subjects covered:
   - Keras, TensorFlow
   - LeNet, Adam arhitecture
   - Augemntation types
-### Project 14 - Shop customers age prediction
+### Project 13 - Shop customers age prediction
   The goal is to train a neural network with photo set of customers to determine the age of customers in future.
 
 ## Part 12 - Unsupervised Learning
   - searching anomalies and clusterization
   - k-means, knn-method, isolation forest
 
-## Final Project - Teperature prediction for steel production
+### Project 14 - Teperature prediction for steel production
   The goal is to analyze the data given from different datasets. understand the process of steel production, and train the model which will determine temperature of steel in the end of technological process.
