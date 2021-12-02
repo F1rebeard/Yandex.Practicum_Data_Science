@@ -51,7 +51,7 @@ Subjects covered:
   - classification metrics (accuracy, f1, AUC-ROC);
   - classification model with classes disbalance;
   - regression metrics (MAE and R^2);
-### Project 6 - Predict the bank client behaivor (stay or leave)
+### Project 6 - Prediction the bank client behaivor (stay or leave)
   Analyze the client data to predict the behaivor of each client will it stay or leave the bank service. Using F1 and AUC-ROC metrics train and choose the best model for this goal.
   
 ## Part 6 - Machine Learning in business
