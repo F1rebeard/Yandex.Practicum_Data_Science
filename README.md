@@ -43,7 +43,7 @@ Subjects covered:
   - scikit-learn library;
   - machine learning metrics;
   - research different machine learning models and determine the best for the task
-### Project 5 - Classification for telecom company tariffs for clients using machine learning
+### Project 5 - Machine_Learning_Classification_for_telecom_company_clients
   Analyze the data with clients behaivor from project 3. Need to choose the best machine learning model for classification and choose the best model depending on the clients listed in the database. Test the final model with best hyperparameters on the test samples and compare with dummy model for adecvate predictions of the chosen model. For metrics - accuracy score.
   
 ## Part 5 - Machine Learning
