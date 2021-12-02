@@ -23,7 +23,7 @@ Subjets covered:
 ### Project 2 - Research of apartment sale advertisements in Saint-Petersburg
   The goal of this project is to establish the  correct parameters of real estate for sale. Clean the data from anomaly values and scammers data. Futher these establishment will help to determine the market values of real estate.
   
-## Part 3 - Statistic analyzation
+## Part 3 - Statistic Analyze
 Subjets covered:
   - choose optimal metrics for data statistic description;
   - evaluate discrete and continuous values using different types of histograms;
