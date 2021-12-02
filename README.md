@@ -113,5 +113,5 @@ Subjects covered:
   - searching anomalies and clusterization
   - k-means, knn-method, isolation forest
 
-### Project 14 - Teperature prediction for steel production
+### Project 14 - Temperature prediction for steel production
   The goal is to analyze the data given from different datasets. understand the process of steel production, and train the model which will determine temperature of steel in the end of technological process.
